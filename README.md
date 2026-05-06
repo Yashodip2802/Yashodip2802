@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 My name is Yashodip
 
-<!--
-**Yashodip2802/Yashodip2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+- 💼 Full Stack Developer / Tech Enthusiast / Open Source Contributor
+- 🎓 Passionate Self-learner & Problem Solver
+- 🛠️ Tech Stack: JavaScript / React / Node.js / Python / Web Development
+- 🤝 Open to collaborating on exciting projects
+- 📧 Contact: yashodip2802@gmail.com
 
-Here are some ideas to get you started:
+💡 **Skills**
+[Include your tech logos/badges here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **GitHub Stats**
+![Stats]()
+![Top Languages]()
+
+🔥 **Streak**
+[Add your GitHub streak badge]
