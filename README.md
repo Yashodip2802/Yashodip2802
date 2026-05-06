@@ -5,7 +5,7 @@
 - 💻 Self-taught programmer
 - 🌱 Learning: React / Next.js / Python / Solidity / C++
 - 🤝 Open to collaborating on projects
-- 📫 Contact: your-email@gmail.com
+- 📫 Contact: yashodip406@gmail.com
 
 ## 🧠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
