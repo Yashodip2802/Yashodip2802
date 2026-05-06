@@ -1,18 +1,18 @@
-## Hi 👋 My name is Yashodip
+Hi 👋 My name is Yashodip
 
-🚀 **About Me**
+🚀 About Me
 - 💼 Full Stack Developer / Tech Enthusiast / Open Source Contributor
 - 🎓 Passionate Self-learner & Problem Solver
-- 🛠️ Tech Stack: JavaScript / React / Node.js / Python / Web Development
+- 🛠️ learned: JavaScript / React / Node.js / Python / Web Development
 - 🤝 Open to collaborating on exciting projects
-- 📧 Contact: yashodip2802@gmail.com
+- 📧 Contact: [yashodip2802@gmail.com](mailto:yashodip2802@gmail.com)
 
-💡 **Skills**
-[Include your tech logos/badges here]
+💡 Skills
+[Your tech logos/badges here]
 
-📊 **GitHub Stats**
-![Stats]()
-![Top Languages]()
+📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Yashodip2802&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodip2802&layout=compact&theme=radical)
 
-🔥 **Streak**
-[Add your GitHub streak badge]
+🔥 Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yashodip2802&theme=radical)](https://git.io/streak-stats)
