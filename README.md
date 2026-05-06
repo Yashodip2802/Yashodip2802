@@ -1,18 +1,22 @@
-Hi 👋 My name is Yashodip
+# Hi 👋, I'm Yashodip
 
-🚀 About Me
-- 💼 Full Stack Developer / Tech Enthusiast / Open Source Contributor
-- 🎓 Passionate Self-learner & Problem Solver
-- 🛠️ learned: JavaScript / React / Node.js / Python / Web Development
-- 🤝 Open to collaborating on exciting projects
-- 📧 Contact: [yashodip2802@gmail.com](mailto:yashodip2802@gmail.com)
+## 🚀 About Me
+- 🎓 High Schooler / Student / Developer
+- 💻 Self-taught programmer
+- 🌱 Learning: React / Next.js / Python / Solidity / C++
+- 🤝 Open to collaborating on projects
+- 📫 Contact: your-email@gmail.com
 
-💡 Skills
-[Your tech logos/badges here]
+## 🧠 Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Python](https://img.shields.io/badge/-Python-blue)
+![React](https://img.shields.io/badge/-React-black)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
 
-📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Yashodip2802&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodip2802&layout=compact&theme=radical)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yashodip2802&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
